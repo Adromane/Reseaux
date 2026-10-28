@@ -37,5 +37,14 @@ Ce projet contient huit travaux pratiques réalisés avec Cisco Packet Tracer :
 
 Les fichiers du projet sont au format `.pkt` et s'ouvrent avec Cisco Packet Tracer.
 
+- **Configuration d'un réseau WAN** : exercices de configuration des équipements réseau.
+- **Communication entre deux PC avec un switch** : test de la communication entre deux ordinateurs.
+- **Communication entre deux PC sans équipement d'interconnexion** : étude d'une communication réseau.
+- **Serveur DHCP** : attribution automatique des adresses IP.
+- **Serveur DNS** : résolution des noms de domaine.
+- **Serveur EMAIL** : configuration d'un service de messagerie.
+- **Serveur WEB (HTTP)** : mise en place d'un serveur Web.
+- **Deuxième exercice WAN** : autre travail pratique de configuration d'un réseau étendu.
+
 
  
