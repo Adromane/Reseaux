@@ -1,88 +1,73 @@
-# # 🌐 Travaux pratiques en réseaux informatiques
+
+# 🌐 Projets de Réseaux Informatiques
+
 ## 📌 Présentation du projet
 
-Ce dépôt regroupe des travaux pratiques en réseaux informatiques réalisés avec **Cisco Packet Tracer**. Il présente des exercices de configuration réseau et la mise en place de services dans un réseau local (LAN).
+Ce dépôt regroupe des travaux pratiques réalisés avec **Cisco Packet Tracer** afin de mettre en pratique les fondamentaux des réseaux informatiques.
 
-Ces travaux font partie de mon apprentissage en administration systèmes et réseaux.
+Les exercices portent sur la communication entre ordinateurs, la configuration des réseaux WAN et la mise en place de services réseau.
 
-## 🎯 Objectifs pédagogiques
+## 🎯 Objectifs
 
 - Comprendre les bases des réseaux informatiques.
-- Étudier la communication entre deux ordinateurs.
-- Découvrir la configuration d'un réseau WAN.
-- Comprendre le fonctionnement des services DHCP et DNS.
-- Découvrir la configuration d'un serveur Web (HTTP) et d'un serveur de messagerie électronique.
+- Configurer et tester la communication entre ordinateurs.
+- Découvrir les équipements réseau et leurs connexions.
+- Mettre en pratique les services DHCP, DNS, HTTP et EMAIL.
+- Développer des compétences pratiques en administration réseau.
 
-## 🛠️ Technologies et outils utilisés
+## 🛠️ Technologies et outils
 
-- **Cisco Packet Tracer** : simulation et configuration des réseaux informatiques.
+- **Cisco Packet Tracer** : simulation et configuration des réseaux.
 - **LAN** : réseau local.
 - **WAN** : réseau étendu.
 - **DHCP** : attribution automatique des adresses IP.
 - **DNS** : résolution des noms de domaine.
-- **HTTP** : hébergement et accès aux pages Web.
-- **Serveur de messagerie** : étude de la communication par e-mail.
+- **HTTP** : accès aux pages Web.
+- **EMAIL** : configuration d'un service de messagerie.
 
 ## 📂 Contenu du dépôt
 
-Ce projet contient huit travaux pratiques réalisés avec Cisco Packet Tracer :
+Ce dépôt contient huit travaux pratiques au format `.pkt` :
 
-- Communication entre deux ordinateurs avec un switch.
-- Communication entre deux ordinateurs sans switch.
-- Configuration d'un réseau WAN.
-- Mise en place d'un serveur DHCP.
-- Mise en place d'un serveur DNS.
-- Mise en place d'un serveur Web (HTTP).
-- Mise en place d'un serveur de messagerie électronique.
-
-Les fichiers du projet sont au format `.pkt` et s'ouvrent avec Cisco Packet Tracer.
-
-- **Configuration d'un réseau WAN** : exercices de configuration des équipements réseau.
-- **Communication entre deux PC avec un switch** : test de la communication entre deux ordinateurs.
-- **Communication entre deux PC sans équipement d'interconnexion** : étude d'une communication réseau.
-- **Serveur DHCP** : attribution automatique des adresses IP.
-- **Serveur DNS** : résolution des noms de domaine.
-- **Serveur EMAIL** : configuration d'un service de messagerie.
-- **Serveur WEB (HTTP)** : mise en place d'un serveur Web.
-- **Deuxième exercice WAN** : autre travail pratique de configuration d'un réseau étendu.
+1. **Communication entre deux PC avec un switch** : test de communication à travers un commutateur.
+2. **Communication entre deux PC sans équipement d'interconnexion** : étude d'une connexion directe.
+3. **Configuration d'un réseau WAN** : exercices de configuration d'un réseau étendu.
+4. **Deuxième exercice WAN** : pratique complémentaire de configuration WAN.
+5. **Serveur DHCP** : attribution automatique des adresses IP.
+6. **Serveur DNS** : résolution des noms de domaine.
+7. **Serveur EMAIL** : mise en place d'un service de messagerie électronique.
+8. **Serveur WEB (HTTP)** : mise en place d'un serveur Web.
 
 ## ⚙️ Prérequis
 
-Pour utiliser les fichiers de ce projet, il faut disposer de :
-
 - Un ordinateur sous Windows, Linux ou macOS.
-- Cisco Packet Tracer installé sur l'ordinateur.
-- Les fichiers de travaux pratiques au format `.pkt` téléchargés depuis ce dépôt.
+- **Cisco Packet Tracer 9.0.1** ou une version compatible avec les fichiers `.pkt`.
 
 ## 🚀 Installation et utilisation
 
 ### 1. Télécharger le projet
 
-Clique sur le bouton **Code** de ce dépôt GitHub, puis sur **Download ZIP** pour télécharger les fichiers.
+Télécharge le dépôt depuis GitHub en cliquant sur **Code → Download ZIP**.
 
-Tu peux également utiliser la commande suivante :
+Tu peux également utiliser Git :
 
 ```bash
 git clone https://github.com/Adromane/Reseaux.git
 ```
 
-### 2. Ouvrir un fichier
+### 2. Ouvrir un exercice
 
 1. Lance Cisco Packet Tracer.
 2. Clique sur **File → Open**.
-3. Sélectionne un fichier `.pkt` du projet.
-4. Examine la topologie réseau et les équipements.
-5. Effectue les tests de communication et observe les résultats.
-
-### 3. Explorer les configurations
-
-Tu peux examiner les adresses IP, les connexions entre les équipements et les services réseau configurés dans chaque scénario.
+3. Sélectionne le fichier `.pkt` souhaité.
+4. Examine la topologie et les équipements.
+5. Effectue les tests de communication et vérifie les configurations.
 
 ## 👨‍💻 Auteur
 
 **Patrik Adromane Vieira Gomes**
 
-Ingénieur en Informatique de Gestion, avec une orientation professionnelle en administration systèmes et réseaux.
+Ingénieur en Informatique de Gestion, orienté vers l'administration des systèmes et réseaux.
 
 - **GitHub :** [Adromane](https://github.com/Adromane)
 - **Portfolio :** [patrick97.netlify.app](https://patrick97.netlify.app/#/home)
@@ -91,6 +76,3 @@ Ingénieur en Informatique de Gestion, avec une orientation professionnelle en a
 ---
 
 *Projet pédagogique réalisé dans le cadre de mon apprentissage pratique des réseaux informatiques.*
-
-
- 
