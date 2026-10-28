@@ -78,5 +78,19 @@ git clone https://github.com/Adromane/Reseaux.git
 
 Tu peux examiner les adresses IP, les connexions entre les équipements et les services réseau configurés dans chaque scénario.
 
+## 👨‍💻 Auteur
+
+**Patrik Adromane Vieira Gomes**
+
+Ingénieur en Informatique de Gestion, avec une orientation professionnelle en administration systèmes et réseaux.
+
+- **GitHub :** [Adromane](https://github.com/Adromane)
+- **Portfolio :** [patrick97.netlify.app](https://patrick97.netlify.app/#/home)
+- **LinkedIn :** [Mon profil LinkedIn](https://www.linkedin.com/in/patrik-adromane-vieira-gomes-14970722b/)
+
+---
+
+*Projet pédagogique réalisé dans le cadre de mon apprentissage pratique des réseaux informatiques.*
+
 
  
