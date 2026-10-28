@@ -54,5 +54,29 @@ Pour utiliser les fichiers de ce projet, il faut disposer de :
 - Cisco Packet Tracer installé sur l'ordinateur.
 - Les fichiers de travaux pratiques au format `.pkt` téléchargés depuis ce dépôt.
 
+## 🚀 Installation et utilisation
+
+### 1. Télécharger le projet
+
+Clique sur le bouton **Code** de ce dépôt GitHub, puis sur **Download ZIP** pour télécharger les fichiers.
+
+Tu peux également utiliser la commande suivante :
+
+```bash
+git clone https://github.com/Adromane/Reseaux.git
+```
+
+### 2. Ouvrir un fichier
+
+1. Lance Cisco Packet Tracer.
+2. Clique sur **File → Open**.
+3. Sélectionne un fichier `.pkt` du projet.
+4. Examine la topologie réseau et les équipements.
+5. Effectue les tests de communication et observe les résultats.
+
+### 3. Explorer les configurations
+
+Tu peux examiner les adresses IP, les connexions entre les équipements et les services réseau configurés dans chaque scénario.
+
 
  
