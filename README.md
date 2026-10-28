@@ -46,5 +46,13 @@ Les fichiers du projet sont au format `.pkt` et s'ouvrent avec Cisco Packet Trac
 - **Serveur WEB (HTTP)** : mise en place d'un serveur Web.
 - **Deuxième exercice WAN** : autre travail pratique de configuration d'un réseau étendu.
 
+## ⚙️ Prérequis
+
+Pour utiliser les fichiers de ce projet, il faut disposer de :
+
+- Un ordinateur sous Windows, Linux ou macOS.
+- Cisco Packet Tracer installé sur l'ordinateur.
+- Les fichiers de travaux pratiques au format `.pkt` téléchargés depuis ce dépôt.
+
 
  
