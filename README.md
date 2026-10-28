@@ -22,4 +22,20 @@ Ces travaux font partie de mon apprentissage en administration systèmes et rés
 - **DNS** : résolution des noms de domaine.
 - **HTTP** : hébergement et accès aux pages Web.
 - **Serveur de messagerie** : étude de la communication par e-mail.
+
+## 📂 Contenu du dépôt
+
+Ce projet contient huit travaux pratiques réalisés avec Cisco Packet Tracer :
+
+- Communication entre deux ordinateurs avec un switch.
+- Communication entre deux ordinateurs sans switch.
+- Configuration d'un réseau WAN.
+- Mise en place d'un serveur DHCP.
+- Mise en place d'un serveur DNS.
+- Mise en place d'un serveur Web (HTTP).
+- Mise en place d'un serveur de messagerie électronique.
+
+Les fichiers du projet sont au format `.pkt` et s'ouvrent avec Cisco Packet Tracer.
+
+
  
